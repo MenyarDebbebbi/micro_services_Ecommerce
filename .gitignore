@@ -1,0 +1,12 @@
+# Eclipse/IDEA/VSCode
+.metadata/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+target/
+*.log
+.DS_Store
+Thumbs.db
+cloud-conf/
